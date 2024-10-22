@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Game
 I have Create the Rock-Paper-Scissors Game using the HTML,CSS and JavaScript.In this Game We have use the 3 main actors Rock,Paper and Scissors.
-  #The Rules of Playing Game are the following:
+  # The Rules of Playing Game are the following:
    i) The user select any one of the choice from the Rock,Paper and the Scissors.
    ii) Computer also generates randomly any one of the choice from the above three.
    iii) If the user choice is Rock and computer choice is Scissors then user win otherwise computer win and increase score accordingly.
